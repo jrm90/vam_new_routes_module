@@ -1,0 +1,6 @@
+This file include all the modifications to do on the database of VAM.
+
+You can use it directly on your PhPMyAdmin o via script.
+
+Additions on tables:
+- Fleettypes: column "airport_type" Which defines what the cat of the airplane related to the airports where it can land.
